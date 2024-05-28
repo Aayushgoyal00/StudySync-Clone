@@ -1,1 +1,1 @@
-# StydySync-Clone
+# StudySync-Clone
